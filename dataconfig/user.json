@@ -1,0 +1,18 @@
+{"test1":
+	{"marking":"all",
+	"course_type":0,
+	"easy_type":"",	
+	"order":2,
+	"pageIndex":1,
+	"flag":"",	
+	"ex_learned":0},
+"test2":
+	{"username":"user2","password":"111111"},
+"login":
+	{"username":"17316597822",
+	"password":"muke1234-",
+	"verify":"",
+	"referer":"https://www.imooc.com"}
+}
+
+
